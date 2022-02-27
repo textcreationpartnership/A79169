@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fresh bit of mutton, for those fleshy minded canibals that cannot endure pottadge. Or a defence of Giles Calfine's Messe of pottadge well seasoned and well crummed. Against the idle yet insolent exceptions of his monstrous adversary MT. ST. RA. IS. PH. By Drupheyra Thexylvenio: cosmopolites.</title>
+            <author>Calfine, Giles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79169</idno>
+            <idno type="STC">Wing C294</idno>
+            <idno type="STC">Thomason E149_22</idno>
+            <idno type="STC">ESTC R16154</idno>
+            <idno type="EEBO-CITATION">99859976</idno>
+            <idno type="PROQUEST">99859976</idno>
+            <idno type="VID">112081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112081)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fresh bit of mutton, for those fleshy minded canibals that cannot endure pottadge. Or a defence of Giles Calfine's Messe of pottadge well seasoned and well crummed. Against the idle yet insolent exceptions of his monstrous adversary MT. ST. RA. IS. PH. By Drupheyra Thexylvenio: cosmopolites.</title>
+                  <author>Calfine, Giles.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. P. in Queenshead-Alley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1462 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drupheyra Thexylvenio = Giles Calfine.</note>
+                  <note>A second defence against Puritan attacks upon Calfine's "A messe of pottage very well seasoned and crumbd" of March 1642, particularly in response to "An answer to lame Giles Calfines Messe of pottage" of April 1642 by M. T. S. T. R. A. I. S. P. H.".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>M. T. S. T. R. A. I. S. P. H. --  Answer to lame Giles Calfines Messe of pottage.</term>
+               <term>Calfine, Giles. --  Messe of pottage, very well seasoned and crumbd.</term>
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112081:1"/>
+            <pb facs="tcp:112081:1" rendition="simple:additions"/>
+            <p>A Fresh Bit of Mutton, for thoſe Fleſhy minded Canibals that cannot endure Pottadge.</p>
+            <p>OR A Defence of <hi>Giles Calfine's</hi> Meſſe of Pottadge well ſeaſoned and well crummed.</p>
+            <p>Againſt the idle yet inſolent exceptions of his monſtrous Adverſary <hi>MT.ST.RA.IS.PH.</hi>
+            </p>
+            <p>By <hi>Drupheyra Thexylvenic: Coſmopolites</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>IOELL 2.17.</hi>
+               </bibl>
+               <p>Let the Prieſts the Miniſters of the Lord weep betweene the Porch and the Altar and let them ſay, Spare thy people, O Lord, and give not thine heritage to reproach, that the Heathen ſhould rule over them, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>ECCLESIAST. 5.2.</hi>
+               </bibl>
+               <p>Be not raſh with thy mouth, and let not thine heart be haſty to utter any thing before God; for God is in Heaven and thou upon Earth, therefore let thy words be few.</p>
+            </q>
+            <p>Printed for <hi>T. P. in Queens head-Alley,</hi> 1462.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112081:2"/>
+            <pb n="1" facs="tcp:112081:2"/>
+            <head>A Fresh bit of Mutton for thoſe fleſhy minded Cannibals that cannot endure Pottadge.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Vr bleſſed Saviour himſelfe, and alſo <hi>Iohn</hi> the Baptiſt ju<g ref="char:EOLhyphen"/>ſtly called the Phariſes of their times, <hi>a Generation of Vipers and Hypocrites;</hi> And certainly the new reſined Phariſees of our dayes are juſt the ſame, profeſſing all good, yet practiſing nothing but what is evill and de<g ref="char:EOLhyphen"/>ſtructive to the peace of the Church. The old Phariſees ſaid of <hi>John Baptiſt,</hi> who came neither eating or drinking, that <hi>he had a Devill;</hi> of our Saviour (who came both eating and drinking) that <hi>he was a Glutton and Winebiber,</hi> &amp;c. and that he alſo had a Devill: Of the ſame humour are our new nice Phariſees, if faſting at Church like honeſt Chriſtians, or full fed in a Conventicle amongſt their own li<g ref="char:EOLhyphen"/>centious Libertines, they are ſtill the ſame, ſtill going contrary to the the Orders of the Church, faſting when they are allowed to feaſt, and feaſting when faſts are enjoyned. But theſe men go beyond the old Phariſees in this, that they are not content to deny obedience to Church Orders, but revile the Church as adulterous, for not confor<g ref="char:EOLhyphen"/>ming her ſelfe to their giddy deviſes. They are never ſo happy in their own opinions, as when they are caſting foule indignities &amp; aſperſions on thoſe whom Chriſt hath choſen, and his Church ordained to be the faithful diſpenſors of his word &amp; Sacramets. Hence proceeds thoſe ſcan<g ref="char:EOLhyphen"/>dalous reproachs againſt that ſacred government, which Chriſt inſtitu<g ref="char:EOLhyphen"/>ted in his Church. It is true, as Chriſt ſaid to his Apoſtles, <hi>Menſhal think they do God good ſervice when they revile and perſecute you</hi> It appeares nowby theſe mens practiſes, who think themſelves almoſt capable of Heaven, If they can but raile at Gods faithfull Miniſters and Ambaſſa<g ref="char:EOLhyphen"/>dors. Traducing their calling as diabolicall and Antichriſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ropha<g ref="char:EOLhyphen"/>ning
+<pb n="2" facs="tcp:112081:3"/>their practiſe and worſhip as Idolatrous and Superſtitious, bla<g ref="char:EOLhyphen"/>ſting their good names as odious and ſcandalous, and calumniating their lives as lewd and licentious; but why do I rake in this dunghill of blaſphemies and reproaches? For what good language can Chriſts Meſſengers expect from ſuch incendiaries, whoſe tongues are ſet on fire from Hel? What calamities this viperous generation hath brought on poore <hi>Germany</hi> is known to all and what it may bring on us is ve<g ref="char:EOLhyphen"/>ry much to be feared, by the monſtrous encreaſe of theſe peſtilent ſects of late in this Kingdom? We ſee how they reſiſt the Orders of our Church in troupes, and labour by their multitudes to effect that, which by plaine arguments and reaſon they cannot accompliſh.</p>
+            <p>The patient and pious humble Remonſtrance met with a plural ad<g ref="char:EOLhyphen"/>verſary, a five headed monſter, ſtiled <hi>Smecty m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> Out of the ſame ſea was revealed the ſecond Beaſt with 7 heads, in armes againſt our <hi>Ly<g ref="char:EOLhyphen"/>turgy, (known by the name of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>walphineramis</hi>) but that the myſtery of ini<g ref="char:EOLhyphen"/>quity may appeare every day more abominable, <hi>Giles Calfines</hi> anſwers are diſcovered under this heatheniſh name, <hi>MT.ST.RA.IS.PH.</hi> And now that you may know him to be a true viper, you may ſee he hath eaten his way through the belly of his damme: Impudently proclaim<g ref="char:EOLhyphen"/>ing in his Title and Book, that the <hi>Lyturgy</hi> of our Church is no better than <hi>Popiſh Poradge,</hi> &amp;c. Making the Church (too good a mother for ſuch a baſtard) no better than an harlot. He ſays he hath ſuch argu<g ref="char:EOLhyphen"/>ments againſt it, as are unanſwerable. A bold ſpeech of an uncircumci<g ref="char:EOLhyphen"/>ſed <hi>Philistim:</hi> Yet in the name of God I will throw one ſtone out of <hi>Davids</hi> ſling at this <hi>Goliah,</hi> though I cannot put on <hi>Sauls</hi> armour, nor was ever wrapped in <hi>Samuels</hi> mantle. And now Sir, I muſt a little reaſon with you, if you will allow of any reaſon.</p>
+            <p>This you ſay, It is no indignity to call the Service Book Porradge, by a metaphor, becauſe fat Cooks out of the <hi>Popes</hi> Kitchin compoſed it. I had though (my unlettered many lettered brethren) that Cooks did make Porradge within, not out of the Kitchin, and if it had been com<g ref="char:EOLhyphen"/>poſed by the <hi>Popes</hi> Cooks, it would never have had ſo many arguments againſt Popery, as may with ſmall paines be deduced from thence. If it be Porradge it is milk Porradge made of the fincere milk of the word, and boyled before the <hi>Pope</hi> had either Cook or Kitchin, at leaſt allow it to be as <hi>Giles Calfine</hi> affirmes good wholeſome Porradge well ea<g ref="char:EOLhyphen"/>ſoned and well crummed, <hi>&amp;c.</hi> If there be any thing that doth not a<g ref="char:EOLhyphen"/>gree with your nice pallate, it is hearb of Grace, whereof there is good ſtore; an ingredient which you cannot abide, becauſe it will vex your fleſhly deſires. But if the whore of <hi>Babylon</hi> did chop into it (as you ſay) weeds of Idolatry, to poyſon the children of Grace; The bleſſed Reformers did by their Porradge as <hi>Eliſha</hi> did by thoſe (whereof the
+<pb n="3" facs="tcp:112081:3"/>ſons of the Prophets cry'd out, ſaying, <hi>there is death in the pot,</hi> that is, not throw them away, but cure them, by putting therin the fine flower of Gods Word, and making them conformable to the truth. So that there is now nothing in them, but that which is in for our nouriſhment and comfort; and I dare confidently affirme that never any child of Grace periſhed by any night-ſhade or <hi>Colloquintida</hi> in the Porradge. But you ſay, the name <hi>Lyturgy</hi> and <hi>Maſſe</hi> are uſed promiſcuouſly by <hi>Jeſuits,</hi> and therfore the <hi>Lyturgy</hi> is unlawful. A pretty formal argument, the word <hi>Communion</hi> and <hi>Sacrament</hi> are uſed promiſcuouſly by us and the Papiſts by the ſame argument wee ſhould not receive the Lords Supper, be<g ref="char:EOLhyphen"/>cauſe Papiſts agree with us in the name: By this you may behold on what ſlender argument your found opinions are grounded. But, you ſay, Na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes are the Images of things, and therfore the <hi>Lyturgy</hi> is either a Lethargy of Will-worſhip, or a Maſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Idolatry. Well bowl'd Bre<g ref="char:EOLhyphen"/>ther <hi>Nicholas,</hi> but that one is too wide, &amp; the other too narrow. <hi>Ten<g ref="char:EOLhyphen"/>terdon Steeple</hi> is the cauſe of <hi>Goodwins ſands,</hi> the more Logical argument of the two; if the Name be always the Image of a thing, then every one that is named <hi>John</hi> muſt be as good as S. <hi>John,</hi> and he that is called <hi>Peter</hi> as S. <hi>Peter.</hi> I warrant that is the matter that S <hi>Paul</hi> was ſo wick<g ref="char:EOLhyphen"/>ed before his name was altered, becauſe he was King <hi>Sauls</hi> name ſake. I by this can ſee the reaſon why you delight to give Scripture names to your children, becauſe you thinke their names will make them good; when as wee ſee theſe poore children, being miſled by their parents &amp; ſeparating from Gods Church into Conventicles, looſe all Religion &amp; God too, while they run a whoring after their own invention<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and worſhip the Calves of their own imagination. But again the name being the image of a thing, you hence aſſirme that bowing to a name is bowing to an Image; <hi>Ergo,</hi> it is Idolatry tobow to he name of <hi>Ieſus.</hi> If this be your Logick, God keep me from your concluſions. You have I beleeve forgot bow a worthy <hi>Gous:</hi> did of late vindicate this part of worſhip; but I will beare with your ſhort memory ſeeing you have al<g ref="char:EOLhyphen"/>moſt ſpoyled it by hearing long winded Sermons. But now comes another of your great arguments, that the <hi>Lyturgy</hi> is taken out of the Popiſh Brevia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and therefore it is unlawfull. I can tell you that the Lords prayer is taken from thence, will you therfore ſay it is unlawful? Your Brethren do as good, for many of them will not uſe it; the Apo<g ref="char:EOLhyphen"/>ſtles Creed is there too, but thoſe Articles are now no part of your ſaith; <hi>Turner</hi> is your Apoſtle; (but I am ſure his Creed will never ſave your ſoules) the ten Commandements are there too, but the World, the Fleſh and the Devill are ſo potent in your affections, that you will not keepe them, and therefore deſire not to heare them. But if the Papiſts mix with our Prayers their ſuperſtrtious ones, muſt not we therfore uſe the good ones? The Divell confeſſed Chriſt to be the Son of God, ſo did <hi>Peter,</hi> yet our Saviour never blamed <hi>Peter</hi> for uſing the Divels confeſ<g ref="char:EOLhyphen"/>ſion.
+<pb n="4" facs="tcp:112081:4"/>Next you find fault with the tranſlation of the Pſalmes in the <hi>Liturgie;</hi> for anſwer to this, pray underſtand (if you can) that the Pſalmes in the Service booke were never yet allowed of by any Pa<g ref="char:EOLhyphen"/>piſts, but were one of the firſt tranſlations ſince our bleſſed Reſorma<g ref="char:EOLhyphen"/>tion, and authorized by Act or Parliament for publike Service. This laſt which is the beſt tranſlation, was done by King <hi>Iames</hi> his Com<g ref="char:EOLhyphen"/>mand, and by him appoynted to be read in Churches; and if they were (as I wiſh they might) be enjoyned by Parliament to that uſe, I dare ſay, none would refuſe to read them inſtead of the old. Next you find fault that we uſe <hi>Gloria Patri,</hi> inſtead of praiſe the Lord: It ſeemes you thinke holy duties enjoyned are unlawfull to be perfor<g ref="char:EOLhyphen"/>med, for what is <hi>Gloria Patri,</hi> but praiſe be to the Lord?</p>
+            <p>Another frivolous Cavill you have againſt reading parts of Chap<g ref="char:EOLhyphen"/>ters, as in the Epiſtles and Goſpels; he is a foole they ſay, that can ſay nothing, and rather than you will have nothing to ſay, you will talke like a foole; for tell me (good Sir) is it not lawfull nor commendable on ſuch occaſions to take thoſe parts of holy Writ only, as are agreea<g ref="char:EOLhyphen"/>ble and pertinent to the time and occaſion? If you will not allow a part of a Chapter, do not allow a Chapter of a Booke; for the diviſion of bookes into Chapters was not originall, but of latter times, done few ages ago. I will give you one inſtance more delightfull to your fleſhly deſires; Why is your Mutton your own deare diſh, brought to your table by the joynt, and not by the whole ſheep? and why do you cate but part of that joynt only, ſuch as you beſt like, and not all of it; you cannot give me a reaſon of one, but I can returne it to you in be<g ref="char:EOLhyphen"/>halfe of the other, only this one excepted: that this your trade of Pamphleting will not maintaine ſo great a table, as a whole ſheep e<g ref="char:EOLhyphen"/>very meale, and two legged Mutton into the bargaine.</p>
+            <p>Your laſt and worſt argument is againſt the <hi>Letany,</hi> which (you ſay) is not the ſtumpe or limbe of <hi>Dagon,</hi> but the head of the Maſſe booke, in which you ſay are nothing but repetitions, and a multitude of words, as <hi>Good Lord deliver us, heare us</hi> &amp;c. ridiculous invocations, Magick ſpels, and no beeter than conjuring. Oh horrid Prophanation of true zealous devotions! ſtop thy mouth audatious Blaſphemer, and bluſh for the abuſe of thoſe cries for mercy, and ſhort ejaculations for and ience at the Throne of grace.</p>
+            <p>Looke on <hi>Pſal.</hi> 136. and ſee if there be not more repetitions in theſe very words, <hi>for his mercy endures for ever:</hi> See alſo our Saviours pra<g ref="char:EOLhyphen"/>ctiſe, <hi>Matth.</hi> 26. praying three times the very ſame words, <hi>Father if it be poſſible let this cup paſſe from me:</hi> Can you teach <hi>David</hi> and our Sa<g ref="char:EOLhyphen"/>viour? will you charge them with vaine repetitions? He that is wiſe in his own conceit is a foole; but take heed, pride goeth before a fall, and an high mind before deſtruction. You have great need to ſay one part of the <hi>Letany, from all blindneſſe of heart, from pride, vaine glory,
+<pb n="5" facs="tcp:112081:4"/>and hypocriſie, from envy hatred and malice, and all uncharitableneſſe,</hi> &amp;c, Look I beſeech you to an extemporary prayer of one of your own trib; how many vaine and impious Tautologes have you there, a dozen ex<g ref="char:EOLhyphen"/>preſſions of one thing; crying good Lord, mercifull Father, gracious Lord, &amp;c. three times in a breath to ſtop a gap, and keep his tongue in play, prophaning the name and attributes of God, to fill up his non-ſence, and helpe out his dull invention. Laſtly tell me, do you ever thinke to come to heaven by conjuring? Can you come thither with<g ref="char:EOLhyphen"/>out the Incarnation, Nativity, Circumciſion, Temptation and Agony, the death and buriall, the glorious Reſurrection and Aſſention of Chriſt? This it is to caſt moſt glorious pearles before Swine, who will be ſure to trample them in the mire. You need no other anſwer but the whipping poſt or gallowes, that dare defame the myſteries of Salvation. But though you will call it conjuring, it ſhall ever bee the chiefe part of my publike devotions, and I will adde this to my pri<g ref="char:EOLhyphen"/>vate <hi>Letany.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>From the numerous generation of Smects.</hi>
+               </l>
+               <l>
+                  <hi>From viperous tub Preachers and their giddy Sects,</hi>
+               </l>
+               <l>
+                  <hi>From thoſe who holy prayers of our Church neglects,</hi>
+               </l>
+               <l>
+                  <hi>Good Lord deliver me.</hi>
+               </l>
+            </q>
+            <p>And now Sir, having in ſome meaſure layed open the invalidity of your arguments, I crave leave a little to rub you by the elbow for your jeering; I perceive you are a carnall man fleſhly minded, you love Mutton well, but cannot away with Porridge: Take heed you do not ſurfet your ſelfe, too much of your ſtraight-laced Mutton it wil bring you to a Conſumption, and then good Porridge well ſeaſoned and well boyled, will prove the beſt nouriſhing dyet to reſtore your decayed nature.</p>
+            <p>You are I perceive a Cook too, but no ordinary Cook, for you ne<g ref="char:EOLhyphen"/>ver would dreſſe Porridge.</p>
+            <p>One of the <hi>Popes</hi> fat Cooks you are not, for they put poyſon in the Porridge, You are then a leane Cook, &amp; for your leaneſſe you may thank your <hi>Mutton.</hi> You are no ignorant Cook, but one that is well expe<g ref="char:EOLhyphen"/>rienced, one that knowes the whore of <hi>Babilon</hi> well, and cannot abide her, becauſe ſhee is out of your reach. For if ſhee were neare you would be one of her beſt cuſtomers, having as good a deſire to the fleſh as the beſt. Experience is gained by old age, ſo it ſeems you are an old Cook; and then (if the name be the image of a thing) you are a Cook-old. But will nothing down with you but <hi>Mutton,</hi> ſure your ſtomach is very ſtrong. Your extemporary exerciſes are but raw meats full of crudities, but you know where to vent them, and no carryon will kill an old Crow. The learned Clergy you wil not heare, for they
+<pb n="6" facs="tcp:112081:5"/>are <hi>Baals</hi> Prieſts you ſay. But you love ſtrong backed men, as Potte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Carmen, inſpired Weavers, and ſoule-curing Coblers; ſuch as were <hi>Ieroboamb's</hi> Prieſts made of the loweſt of the people. I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ceive you hope to gaine ſomething by their Calves. But to return to the mat<g ref="char:EOLhyphen"/>ter in hand, and come to a Concluſion; ſince I perceive you are ſuch a great <hi>Mutton</hi> monger, pray what part of the <hi>Mutton</hi> ſhall I aſſigne. If I allot you the head, you may thinke I account you a Sheeps head, (blow your R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms Horne, and aſſemble your tribe to a conſul;tation) if the neck, you will ſay, I jeere your ſtiffe neckedneſſe. The ſhoulders you are content to keep for Fryday nightsu ſpper, with the helpe of a good fat Coney for your digeſtion. The breaſt and loynes you and your Brethren love dearely. But above all, I commend unto you the rumpe, and leaſt you ſhould blend legs with your ſiſters, I will take the legs and begone.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm. 78.30, 31.</hi>
+                  </bibl>
+                  <p>They were not estranged of their luſts, But while their meat was yet in their mouths, The wrath of God came upon them, and ſlew the fatteſt of them and ſmote down the choſen men of Iſrael.</p>
+                  <bibl>
+                     <hi>Levit. 19.27.</hi>
+                  </bibl>
+                  <p>Yee ſhall not round the corners of your heads, neither ſhalt thou marre the corners of thy beard.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112081:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
